@@ -31,5 +31,4 @@ python src/train.py
 python api/app.py
 ```
 
-## Status
-Completed as a learning project. Open to feedback and suggestions.
+
